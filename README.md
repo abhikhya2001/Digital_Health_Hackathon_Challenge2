@@ -30,5 +30,7 @@ Submission for Quarterfinal Round of the 2022 Dr Reddy's Digital Health Hackatho
      You can use example handwritten prescriptions from our sample_prescriptions folder to test our software.
 
   6. The access key and secret keys used in the code to communicate with AWS are from our personal account.
+     IMP: IF THE ACCESS KEYS GIVEN IN THE CODE DO NOT WORK, PLEASE REPLACE THE aws_access_key_id in lines 11, 17, 20 and 24 by 'AKIA476BNLHSDPJOFD2G'
+     and the aws_secret_access_key in lines 12, 18, 21, and 25 by 'RWY28C62aEQPGOp+sqIpoBmkhrRFmQCUSMwQEJwT' respectively.
 
   7. AWS DynamoDB is interfaced in the backend and the extracted data is stored int
