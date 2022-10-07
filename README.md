@@ -33,4 +33,4 @@ Submission for Quarterfinal Round of the 2022 Dr Reddy's Digital Health Hackatho
      IMP: IF THE ACCESS KEYS GIVEN IN THE CODE DO NOT WORK, PLEASE REPLACE THE aws_access_key_id in lines 11, 17, 20 and 24 by 'AKIA476BNLHSDPJOFD2G'
      and the aws_secret_access_key in lines 12, 18, 21, and 25 by 'RWY28C62aEQPGOp+sqIpoBmkhrRFmQCUSMwQEJwT' respectively.
 
-  7. AWS DynamoDB is interfaced in the backend and the extracted data is stored int
+  7. AWS DynamoDB is interfaced in the backend and the extracted data is stored in it.
