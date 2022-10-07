@@ -15,7 +15,7 @@ Submission for Quarterfinal Round of the 2022 Dr Reddy's Digital Health Hackatho
 
   3. IN YOUR TERMINAL, run the following command:
 
-     '''python3 app.py'''
+     python3 app.py
         OR
      python app.py
 
