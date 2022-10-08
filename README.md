@@ -13,6 +13,7 @@ Submission for Quarterfinal Round of the 2022 Dr Reddy's Digital Health Hackatho
      may be needed depending on the specific system being used. These will come up as import/dependency errors in the terminal.
      
 # 3. AWS ACCESS KEY ID AND SECRET KEY:
+
      You can run this code by generating your own AWS access key ID and secret key using your own personal AWS account. Follow the steps below:
      First, login to your AWS account and create a bucket with a valid name. In line 31 of app.py, replace 'BUCKET_NAME' with the name of your bucket.
      Then, go to 'Security credentials' in your account and generate a pair of Access Key ID and Secret Key.
@@ -20,17 +21,17 @@ Submission for Quarterfinal Round of the 2022 Dr Reddy's Digital Health Hackatho
      Next, PLEASE REPLACE THE aws_access_key_id in lines 11, 18, 21 and 25 by your generated Access Key ID
      and the aws_secret_access_key in lines 12, 19, 22, and 26 by your generated Secret Key respectively.
 
-  3. IN YOUR TERMINAL, run the following command:
+  4. IN YOUR TERMINAL, run the following command:
                  python3 app.py
                     OR
                  python app.py
 
-  4. Go to your localhost at PORT 5000. That is, go to the following URL on your local system. This will also be output on your terminal as the 
+  5. Go to your localhost at PORT 5000. That is, go to the following URL on your local system. This will also be output on your terminal as the 
      URL that's hosting our UI website.
      
      http://127.0.0.1:5000
 
-  5. Now, follow the steps and cues as visible on our UI to use our system for extraction of medical entities from handwritten prescriptions.
+  6. Now, follow the steps and cues as visible on our UI to use our system for extraction of medical entities from handwritten prescriptions.
      You can also refer to the sample_outputs folder where screenshots are available to show the step-by-step use and functioning of the UI.
 
      You can use example handwritten prescriptions from our sample_prescriptions folder to test our software.
