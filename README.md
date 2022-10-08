@@ -15,7 +15,7 @@ Submission for Quarterfinal Round of the 2022 Dr Reddy's Digital Health Hackatho
 # 3. AWS ACCESS KEY ID AND SECRET KEY:
 
      You can run this code by generating your own AWS access key ID and secret key using your own personal AWS account. Follow the steps below:
-     First, login to your AWS account and create a bucket with a valid name. 
+     First, login to your AWS account and create an S3 bucket with a valid name. 
      In line 31 of app.py, replace 'BUCKET_NAME' with the name of your bucket.
      Then, go to 'Security credentials' in your account and generate a pair of Access Key ID and Secret Key.
      
