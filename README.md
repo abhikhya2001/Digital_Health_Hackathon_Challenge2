@@ -28,7 +28,9 @@ Submission for Quarterfinal Round of the 2022 Dr Reddy's Digital Health Hackatho
                  python app.py
 
   5. Go to your localhost at PORT 5000. That is, go to the following URL on your local system. This will also be output on your terminal as the 
-     URL that's hosting our UI website.
+     URL that's hosting our UI website. PLEASE FOLLOW ALL THE STEPS SEQUENTIALLY AS GIVEN BY THE GREEN BUTTONS ON THE UI. 
+     Upload-> Extract-> Upload-> Classify-> Store-> Repeat.
+
      
      http://127.0.0.1:5000
 
