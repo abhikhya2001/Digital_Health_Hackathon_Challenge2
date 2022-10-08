@@ -8,27 +8,27 @@ from werkzeug.utils import secure_filename
 from collections import OrderedDict
 
 s3 = boto3.client('s3',
-                    aws_access_key_id='AKIA476BNLHSIOWTF3N6',
-                    aws_secret_access_key= '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',
+                    aws_access_key_id='',
+                    aws_secret_access_key= '',
                     region_name='us-east-1'
                     #aws_session_token=keys.AWS_SESSION_TOKEN
                      )
 
 textract = boto3.client('textract',
-                        aws_access_key_id='AKIA476BNLHSIOWTF3N6',
-                        aws_secret_access_key = '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', region_name='us-east-1')
+                        aws_access_key_id='',
+                        aws_secret_access_key = '', region_name='us-east-1')
 
-comprehend = boto3.client('comprehendmedical', aws_access_key_id='AKIA476BNLHSIOWTF3N6', 
-                        aws_secret_access_key = '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', region_name='us-east-1')
+comprehend = boto3.client('comprehendmedical', aws_access_key_id='', 
+                        aws_secret_access_key = '', region_name='us-east-1')
 
 dynamodb = boto3.resource('dynamodb', 
-                    aws_access_key_id='AKIA476BNLHSIOWTF3N6',
-                    aws_secret_access_key= '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',
+                    aws_access_key_id='',
+                    aws_secret_access_key= '',
                     region_name='us-east-1')
 
 from boto3.dynamodb.conditions import Key, Attr
 
-BUCKET_NAME='handwrittenprescriptionbucket'
+BUCKET_NAME='handwrittenprescriptionbucket22'
 
 app.secret_key = 'This is your secret key to utilize session in Flask'
 
