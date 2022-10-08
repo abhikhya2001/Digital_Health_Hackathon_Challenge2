@@ -28,15 +28,13 @@ Submission for Quarterfinal Round of the 2022 Dr Reddy's Digital Health Hackatho
                  python app.py
 
   5. Go to your localhost at PORT 5000. That is, go to the following URL on your local system. This will also be output on your terminal as the 
-     URL that's hosting our UI website. PLEASE FOLLOW ALL THE STEPS SEQUENTIALLY AS GIVEN BY THE GREEN BUTTONS ON THE UI. 
-     
-     Upload-> Extract-> Upload-> Classify-> Store-> Repeat.
-
+     URL that's hosting our UI website. 
      
      http://127.0.0.1:5000
 
   6. Now, follow the steps and cues as visible on our UI to use our system for extraction of medical entities from handwritten prescriptions.
      You can also refer to the sample_outputs folder where screenshots are available to show the step-by-step use and functioning of the UI.
+     PLEASE FOLLOW ALL THE STEPS SEQUENTIALLY AS GIVEN BY THE GREEN BUTTONS ON THE UI. Upload-> Extract-> Upload-> Classify-> Store-> Repeat.
 
      You can use example handwritten prescriptions from our sample_prescriptions folder to test our software.
 
