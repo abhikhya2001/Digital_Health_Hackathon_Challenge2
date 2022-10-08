@@ -27,6 +27,7 @@ Submission for Quarterfinal Round of the 2022 Dr Reddy's Digital Health Hackatho
 
   4. Go to your localhost at PORT 5000. That is, go to the following URL on your local system. This will also be output on your terminal as the 
      URL that's hosting our UI website.
+     
      http://127.0.0.1:5000
 
   5. Now, follow the steps and cues as visible on our UI to use our system for extraction of medical entities from handwritten prescriptions.
