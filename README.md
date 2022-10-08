@@ -12,7 +12,7 @@ Submission for Quarterfinal Round of the 2022 Dr Reddy's Digital Health Hackatho
   2. Install all the libraries and dependencies as listed in requirements.txt in a new python environment. Please install any other dependencies that 
      may be needed depending on the specific system being used. These will come up as import/dependency errors in the terminal.
      
-# 3. AWS ACCESS KEY ID AND SECRET KEY:
+## 3. AWS ACCESS KEY ID AND SECRET KEY:
 
      You can run this code by generating your own AWS access key ID and secret key using your own personal AWS account. Follow the steps below:
      First, login to your AWS account and create a bucket with a valid name. In line 31 of app.py, replace 'BUCKET_NAME' with the name of your bucket.
